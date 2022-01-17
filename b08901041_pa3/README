@@ -1,0 +1,9 @@
+# Algorithm PA3
+To compile the code, please type `make` in command line.  
+
+To run the code, please type `bin/cb input_path output_path` in command line.  
+
+For example, to input *public_case_1.in* in inputs dir and output *case_1.out* in outputs dir, type the command below.  
+```
+bin/cb inputs/public_case_1.in outputs/case_1.out
+```
